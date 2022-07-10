@@ -2,19 +2,29 @@ body {
     background: black;
   }
 
-
-:root {
-    --color-1: white;
-    --color-2: black;
-    --angle: 0deg;
-  }
-
 .welcome {
     text-align: center;
     font-family: 'Arial';
     font-size: 60px;
     color: white;
  }
+
+.notmain {
+  border: none;
+  font-family: 'Arial';
+  color: white;
+  padding: 15px 64px;
+  align-items: ce;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15px;
+  margin: 0;
+  position: absolute;
+  top: 170px;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
 
  
 .ytb {
