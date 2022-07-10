@@ -72,6 +72,53 @@ body {
     box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
     background-color: #4CAF50;
  }
+
+ .vkb {
+  background-color: gray; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 64px;
+  align-items: ce;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 32px;
+  margin: 0;
+  position: absolute;
+  top: 450px;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  cursor: pointer;
+} 
+
+.vkb:hover {
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+  background-color: #4CAF50;
+}  
+
+.instb {
+  background-color: gray; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 64px;
+  align-items: ce;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 32px;
+  margin: 0;
+  position: absolute;
+  top: 550px;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  cursor: pointer;
+}
+
+.instb:hover {
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+  background-color: #4CAF50;
+}
+
 .tgb {
     background-color: gray; /* Green */
     border: none;
@@ -83,7 +130,7 @@ body {
     font-size: 32px;
     margin: 0;
     position: absolute;
-    top: 450px;
+    top: 650px;
     left: 50%;
     -ms-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
@@ -94,28 +141,6 @@ body {
     box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
     background-color: #4CAF50;
  }
-.vkb {
-    background-color: gray; /* Green */
-    border: none;
-    color: white;
-    padding: 15px 64px;
-    align-items: ce;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 32px;
-    margin: 0;
-    position: absolute;
-    top: 550px;
-    left: 50%;
-    -ms-transform: translate(-50%, -50%);
-    transform: translate(-50%, -50%);
-    cursor: pointer;
-  } 
-
-.vkb:hover {
-    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
-    background-color: #4CAF50;
-}  
 
 .steamb {
     background-color: gray; /* Green */
@@ -128,7 +153,7 @@ body {
     font-size: 32px;
     margin: 0;
     position: absolute;
-    top: 650px;
+    top: 750px;
     left: 50%;
     -ms-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
@@ -151,7 +176,7 @@ body {
     font-size: 32px;
     margin: 0;
     position: absolute;
-    top: 750px;
+    top: 850px;
     left: 50%;
     -ms-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
