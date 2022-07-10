@@ -10,15 +10,9 @@ body {
  }
 
 .notmain {
-  border: none;
   font-family: 'Arial';
   color: white;
-  padding: 15px 64px;
-  align-items: ce;
-  text-decoration: none;
-  display: inline-block;
   font-size: 15px;
-  margin: 0;
   position: absolute;
   top: 170px;
   left: 50%;
