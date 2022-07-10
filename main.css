@@ -8,18 +8,6 @@ body {
     font-size: 60px;
     color: white;
  }
-
-.notmain {
-  font-family: 'Arial';
-  color: white;
-  font-size: 15px;
-  position: absolute;
-  top: 170px;
-  left: 50%;
-  -ms-transform: translate(-50%, -50%);
-  transform: translate(-50%, -50%);
-}
-
  
 .ytb {
     background-color: gray; /* Green */
