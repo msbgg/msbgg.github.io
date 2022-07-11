@@ -16,7 +16,7 @@ body{
     color: white;
 }
 
-.rub {
+.rub{
     background-color: gray;
     border: none;
     color: white;
@@ -27,7 +27,7 @@ body{
     font-size: 25px;
     margin: 0;
     position: absolute;
-    top: 450px;
+    top: 650px;
     left: 50%;
     -ms-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
