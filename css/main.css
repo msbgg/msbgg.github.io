@@ -10,7 +10,7 @@ body {
  }
  
 .ytb {
-    background-color: gray; /* Green */
+    background-color: gray;
     border: none;
     color: white;
     padding: 15px 64px;
@@ -33,7 +33,7 @@ body {
  }
 
 .ttb {
-    background-color: gray; /* Green */
+    background-color: gray;
     border: none;
     color: white;
     padding: 15px 64px;
@@ -56,7 +56,7 @@ body {
  }
 
  .vkb {
-  background-color: gray; /* Green */
+  background-color: gray;
   border: none;
   color: white;
   padding: 15px 64px;
@@ -79,7 +79,7 @@ body {
 }  
 
 .instb {
-  background-color: gray; /* Green */
+  background-color: gray;
   border: none;
   color: white;
   padding: 15px 64px;
@@ -102,7 +102,7 @@ body {
 }
 
 .tgb {
-    background-color: gray; /* Green */
+    background-color: gray;
     border: none;
     color: white;
     padding: 15px 64px;
@@ -125,7 +125,7 @@ body {
  }
 
 .steamb {
-    background-color: gray; /* Green */
+    background-color: gray;
     border: none;
     color: white;
     padding: 15px 64px;
@@ -148,7 +148,7 @@ body {
 } 
 
 .ghb {
-    background-color: gray; /* Green */
+    background-color: gray;
     border: none;
     color: white;
     padding: 15px 64px;
@@ -170,5 +170,46 @@ body {
     background-color: #4CAF50;
 }  
 
+.qiwib {
+  background-color: gray;
+  border: none;
+  color: white;
+  padding: 15px 64px;
+  align-items: ce;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 32px;
+  margin: 0;
+  position: absolute;
+  top: 950px;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  cursor: pointer;
+} 
 
+.qiwib:hover {
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+  background-color: #4CAF50;
+} 
+
+.footertext{
+  font-family: 'Arial';
+  font-size: 15px;
+  padding: 15px 64px;
+  text-decoration: none;
+  font-size: 25px;
+  margin: 0;
+  position: absolute;
+  top: 1100px;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  margin-top: 0px;
+  margin-bottom: 10px;
+  background: linear-gradient(to right, #ef5350, #f48fb1, #7e57c2, #2196f3, #26c6da, #43a047, #eeff41, #f9a825, #ff5722);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  cursor: pointer;
+}
 
