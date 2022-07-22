@@ -26,6 +26,7 @@ body {
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
   cursor: pointer;
+  border-radius: 50px;
 }
 
 .dpageb:hover {
@@ -49,6 +50,7 @@ body {
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
   cursor: pointer;
+  border-radius: 50px;
 }
 
 .ytb:hover {
@@ -72,6 +74,7 @@ body {
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
   cursor: pointer;
+  border-radius: 50px;
 }
 
 .twitchb:hover {
@@ -95,6 +98,7 @@ body {
     -ms-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
     cursor: pointer;
+    border-radius: 50px;
   }
 
 .ttb:hover {
@@ -118,6 +122,7 @@ body {
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
   cursor: pointer;
+  border-radius: 50px;
 } 
 
 .dscb:hover {
@@ -141,6 +146,7 @@ body {
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
   cursor: pointer;
+  border-radius: 50px;
 } 
 
 .vkb:hover {
@@ -164,6 +170,7 @@ body {
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
   cursor: pointer;
+  border-radius: 50px;
 }
 
 .instb:hover {
@@ -187,6 +194,7 @@ body {
     -ms-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
     cursor: pointer;
+    border-radius: 50px;
   }
 
 .tgb:hover {
@@ -210,6 +218,7 @@ body {
     -ms-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
     cursor: pointer;
+    border-radius: 50px;
   } 
 
 .steamb:hover {
@@ -233,6 +242,7 @@ body {
     -ms-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
     cursor: pointer;
+    border-radius: 50px;
   } 
 
 .ghb:hover {
@@ -256,6 +266,7 @@ body {
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
   cursor: pointer;
+  border-radius: 50px;
 } 
 
 .qiwib:hover {
