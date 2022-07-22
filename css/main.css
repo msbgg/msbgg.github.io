@@ -136,7 +136,7 @@ body {
   font-size: 32px;
   margin: 0;
   position: absolute;
-  top: 750px;
+  top: 850px;
   left: 50%;
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
@@ -159,7 +159,7 @@ body {
   font-size: 32px;
   margin: 0;
   position: absolute;
-  top: 850px;
+  top: 750px;
   left: 50%;
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
